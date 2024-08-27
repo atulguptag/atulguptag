@@ -47,15 +47,29 @@
   </a>
 </div>
 
+## 🏆Achievements
+
+![](https://github-trophies.vercel.app/?username=atulguptag&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
 ## 📌 My Git Commits:
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulguptag&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atulguptag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=atulguptag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulguptag&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atulguptag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="auto" alt="languages graph"  />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=atulguptag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="auto" alt="stats graph"  />
 </div>
+
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica)
 
 ## 👀 Profile View:
 
