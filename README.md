@@ -1,6 +1,11 @@
-<h1 align="left">Hi 👋! My name is Atul Gupta</h1>
+# Hi 👋! I'm Atul Gupta
 
-<h3 align="left"> I'm a Python Django Developer | Google Cloud Enthusiast</h3>
+* 👨‍💻 A passionate Python Django Backend Developer
+* 🌍 I'm based in India
+* ✉️ You can contact me at [atulguptag111@gmail.com](mailto:atulguptag111@gmail.com)
+* 👨‍💻 I'm currently working on [Ecommerce Website](https://github.com/atulguptag/Django-eCommerce-Website)
+* 🤝 I'm open to collaborating on Django Projects
+* 🖥️ See my portfolio at [Portfolio](https://atulguptag.github.io/)
 
 ## 📝 My Resume:
 
