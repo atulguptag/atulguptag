@@ -78,6 +78,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+Python       5 hrs 1 min     ███████████████████████▓░   94.74 %
+HTML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ### ✍️Random Dev Quote
