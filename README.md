@@ -3,7 +3,7 @@
 - 👨‍💻 A passionate Full Stack Engineer | Software Developer
 - 🌍 I'm based in India
 - ✉️ You can contact me at [atulguptag111@gmail.com](mailto:atulguptag111@gmail.com)
-- 👨‍💻 I'm currently working with **WorksNet Tech Innovation**
+- 👨‍💻 I'm currently working on [Django Ecommerce Project](https://github.com/atulguptag/Django-eCommerce-Website)
 - 🤝 I'm open to collaborating on python django projects
 - 🖥️ See my portfolio at [Portfolio](https://atulguptag.github.io/)
 
