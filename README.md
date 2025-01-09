@@ -14,8 +14,8 @@
 ## 💻 SKILLS:
 
 - **Technologies:** C++, Python, JavaScript, SQL
-- **Tools/Frameworks::** Django, React.Js, OAuth, HTML/CSS, React.js, Bootstrap, Vscode, Git, GitHub, AWS, PythonAnyWhere
-- **DataBases::** MySQL, PostgreSQL
+- **Tools/Frameworks:** Django, React.Js, OAuth, HTML/CSS, React.js, Bootstrap, Vscode, Git, GitHub, AWS, PythonAnyWhere
+- **DataBases:** MySQL, PostgreSQL
 
 ## 🧑🏻‍💻 MY TECH STACK:
 
