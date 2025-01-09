@@ -9,7 +9,7 @@
 
 ## 📝 RESUME:
 
-- You can find my resume [here](https://drive.google.com/file/d/1czMKJhT-1UZ3cG3CeF09nVvPeGjUhKGo/view).
+- You can find my resume [here](https://drive.google.com/file/d/1w3YVsJjE5hMXPyKoOjhAZgVIRjFl2L0u/view).
 
 ## 💻 SKILLS:
 
