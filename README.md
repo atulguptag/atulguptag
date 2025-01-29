@@ -1,71 +1,53 @@
 # Hi Everyone👋! I'm Atul Gupta
 
-- 👨‍💻 A passionate Full Stack Engineer | Software Developer
+# 💫 About Me:
+
+- 👨‍💻 A passionate Software Developer | Full Stack Developer | Python Developer
 - 🌍 I'm based in India
-- ✉️ You can contact me at [atulguptag111@gmail.com](mailto:atulguptag111@gmail.com)
-- 👨‍💻 I'm currently learning GO Language
+- ✉️ You can contact me at [here](mailto:atulguptag111@gmail.com)
+- 👨‍💻 I'm currently learning `GO Language`
 - 👨‍💻 I'm currently working on [Go Auth App](https://github.com/atulguptag/go-auth-app)
-- 🤝 I'm open to collaborating on python django projects
+- 🤝 I'm open to collaborating on `Python Django Projects`
 - 🖥️ See my portfolio at [Portfolio](https://atulguptag.github.io/)
 
-## 📝 RESUME:
+# 📝 RESUME:
 
 - You can find my resume [here](https://drive.google.com/file/d/1w3YVsJjE5hMXPyKoOjhAZgVIRjFl2L0u/view).
 
-## 💻 SKILLS:
+# 💻 Tech Stack:
 
-- **Technologies:** C++, Python, JavaScript, SQL
-- **Tools/Frameworks:** Django, React.Js, OAuth, HTML/CSS, React.js, Bootstrap, Vscode, Git, GitHub, AWS, PythonAnyWhere
-- **DataBases:** MySQL, PostgreSQL
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🧑🏻‍💻 MY TECH STACK:
+## 🌐 Socials:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="41" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="41" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="41" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="41" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="41" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="41" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="41" alt="gitlab logo"  />
-<div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulguptag)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsatulguptag)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsatulguptag)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atulgupta_g)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@atulgupta-g/?sub_confirmation=1)
 
-## 💬 Let's Connect:
-
-<a href="https://www.linkedin.com/in/atulguptag/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
-<a href="https://www.instagram.com/itsatulguptag/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</a>
-<a href="https://www.facebook.com/itsatulguptag/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</a>
-<a href="https://www.youtube.com/@atulgupta-g/?sub_confirmation=1/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</a>
-
-## 🏆Achievements
+## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=atulguptag&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📌 GIT COMMITS:
+
+<img src="https://github-readme-stats.vercel.app/api?username=atulguptag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="auto" alt="stats graph"  />
 
 <br>
 
@@ -75,10 +57,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atulguptag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="auto" alt="languages graph"  />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=atulguptag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="auto" alt="stats graph"  />
-
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica)
@@ -86,3 +64,7 @@
 ## 👀 Profile View:
 
 <img src="https://profile-counter.glitch.me/atulguptag/count.svg"/>
+
+## 💰 You can help me by Donating
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atulguptaa)
