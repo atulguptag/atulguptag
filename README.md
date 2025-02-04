@@ -12,7 +12,7 @@
 
 # 📝 RESUME:
 
-- You can find my resume [here](https://drive.google.com/file/d/1w3YVsJjE5hMXPyKoOjhAZgVIRjFl2L0u/view).
+- You can find my resume [here](https://drive.google.com/file/d/1OosWWe0r02DWl2A3C_YgDR8FtZpaySMQ/view).
 
 # 💻 Tech Stack:
 
