@@ -3,12 +3,13 @@
 # 💫 About Me:
 
 - 👨‍💻 A passionate Software Developer | Full Stack Developer | Python Developer
-- 🌍 I'm based in India
-- ✉️ You can contact me at [here](mailto:atulguptag111@gmail.com)
-- 👨‍💻 I'm currently learning `GO Language`
-- 👨‍💻 I'm currently working on [Go Auth App](https://github.com/atulguptag/go-auth-app)
-- 🤝 I'm open to collaborating on `Python Django Projects`
-- 🖥️ See my portfolio at [Portfolio](https://atulguptag.github.io/)
+- 🌍 I'm based in India
+- 📬 You can contact me at [here](mailto:atulguptag111@gmail.com)
+- 📚 I'm currently learning `GO Language`
+- 🏢 I'm currently working with `Moneyy.ai`
+- 🤝 I'm open to collaborating on `Python Django Projects`
+- 🌐 See my portfolio at [Portfolio](https://atulguptag.github.io/)
+- ✍️ See my blog at [Blog](https://blogbyatulgupta.wordpress.com/)
 
 # 📝 RESUME:
 
@@ -57,7 +58,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atulguptag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="auto" alt="languages graph"  />
 
-### ✍️Random Dev Quote
+## ✨ Languages I used mostly:
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@atulguptag/ae59feb2-7fb1-4e46-bbe6-d20892fdcdfb.png" /></a>
+
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica)
 
