@@ -16,7 +16,7 @@
 - You can find my resume [here](https://drive.google.com/file/d/1OosWWe0r02DWl2A3C_YgDR8FtZpaySMQ/view).
 
 # 💻 Tech Stack:
-
+<!-- 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -32,7 +32,11 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
+
+| Languages | Frameworks and Tools |
+| --------- | ------------ |
+| [![My Skills](https://skillicons.dev/icons?i=python,go,javascript,cpp,mysql,markdown,html,css&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql,react,django,postman,vercel,flask,fastapi,vscode,git,github,aws,googlecloud&theme=dark&perline=7)](https://skillicons.dev) |
 
 ## 🌐 Socials:
 
@@ -46,17 +50,14 @@
 
 ![](https://github-trophies.vercel.app/?username=atulguptag&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-## 📌 GIT COMMITS:
+## 📌 GIT Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=atulguptag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="auto" alt="stats graph"  />
+![Graph_2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulguptag&theme=github_dark)
+![Graph_1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atulguptag&theme=github_dark)
 
-<br>
+![Graph_3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulguptag&theme=github_dark)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulguptag&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atulguptag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="auto" alt="languages graph"  />
+<!-- [![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atulguptag&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/atulguptag/github-readme-activity-graph) -->
 
 ## ✨ Languages I used mostly:
 
@@ -69,7 +70,3 @@
 ## 👀 Profile View:
 
 <img src="https://profile-counter.glitch.me/atulguptag/count.svg"/>
-
-## 💰 You can help me by Donating
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atulguptaa)
