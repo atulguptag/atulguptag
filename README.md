@@ -6,14 +6,14 @@
 - 🌍 I'm based in India
 - 📬 You can contact me at [here](mailto:atulguptag111@gmail.com)
 - 📚 I'm currently learning `TypeScript`
-- 🏢 I'm currently working with `Moneyy.ai`
+- 🏢 I'm currently working as a `Freelancer`.
 - 🤝 I'm open to collaborating on `Python Django Projects`
 - 🌐 See my portfolio at [Portfolio](https://atul-portfolio-atul-guptas-projects.vercel.app/)
 - ✍️ See my blog at [Blog](https://blogbyatulgupta.wordpress.com/)
 
 # 📝 RESUME:
 
-- You can find my resume [here](https://drive.google.com/file/d/1OosWWe0r02DWl2A3C_YgDR8FtZpaySMQ/view).
+- You can find my resume [Comming Soon...](#).
 
 # 💻 Tech Stack:
 
@@ -37,7 +37,7 @@
 
 | Languages                                                                                                                                    | Frameworks and Tools                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=python,go,javascript,cpp,mysql,markdown,html,css&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql,react,django,postman,vercel,flask,fastapi,vscode,git,github,aws,googlecloud&theme=dark&perline=7)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=python,go,javascript,typescript,mysql,markdown,html,css&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql,react,django,postman,vercel,flask,fastapi,vscode,git,github,aws,googlecloud&theme=dark&perline=7)](https://skillicons.dev) |
 
 ## 🌐 Socials:
 
