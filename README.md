@@ -2,18 +2,18 @@
 
 # 💫 About Me:
 
-- 👨‍💻 A passionate Software Developer | Full Stack Developer | Python Developer
+- 👨‍💻 A passionate Software Developer | Full Stack Developer | Python Developer | Expertise in AI Training
 - 🌍 I'm based in India
-- 📬 You can contact me at [here](mailto:atulguptag111@gmail.com)
+- 📬 You can contact me at [here](mailto:atulguptag23@gmail.com)
 - 📚 I'm currently learning `TypeScript`
 - 🏢 I'm currently working as a `Freelancer`.
 - 🤝 I'm open to collaborating on `Python Django Projects`
-- 🌐 See my portfolio at [Portfolio](https://atul-portfolio-atul-guptas-projects.vercel.app/)
+- 🌐 See my portfolio at [Portfolio](https://atul-portfolio-work.vercel.app/)
 - ✍️ See my blog at [Blog](https://blogbyatulgupta.wordpress.com/)
 
 # 📝 RESUME:
 
-- You can find my resume [Comming Soon...](#).
+- You can find my resume [here](https://drive.google.com/file/d/1sERPLkJx8pCmmSueACLiyr0tM4aICZ_c/view?usp=sharing).
 
 # 💻 Tech Stack:
 
@@ -35,8 +35,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
-| Languages                                                                                                                                    | Frameworks and Tools                                                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Languages                                                                                                                                           | Frameworks and Tools                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![My Skills](https://skillicons.dev/icons?i=python,go,javascript,typescript,mysql,markdown,html,css&theme=dark&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql,react,django,postman,vercel,flask,fastapi,vscode,git,github,aws,googlecloud&theme=dark&perline=7)](https://skillicons.dev) |
 
 ## 🌐 Socials:
@@ -70,4 +70,4 @@
 
 ## 👀 Profile View:
 
-<img src="https://profile-counter.glitch.me/atulguptag/count.svg"/>
+![Visitor Count](https://profile-counter.glitch.me/{atulguptag}/count.svg)
