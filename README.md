@@ -67,7 +67,3 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica)
-
-## 👀 Profile View:
-
-![Visitor Count](https://profile-counter.glitch.me/{atulguptag}/count.svg)
